@@ -3,7 +3,7 @@
     {
       "id": 3,
       "category": "school",
-      "app": "messenger",
+      "app": "Messenger",
       "userName": "testuser@mytest.com",
       "encryptedPassword": "TmV3UGFzc3dvcmRAMTIz"
     },
@@ -48,6 +48,20 @@
       "userName": "behnaz gh",
       "encryptedPassword": "OTc1MzE=",
       "id": 12
+    },
+    {
+      "category": "work",
+      "app": "OUTLOOK",
+      "userName": "testuser@mytest.com",
+      "encryptedPassword": "MTIzNA==",
+      "id": 13
+    },
+    {
+      "category": "work",
+      "app": "messenger66",
+      "userName": "testuser6@mytest.com",
+      "encryptedPassword": "MTMzMjQ1NA==",
+      "id": 14
     }
   ]
 }
